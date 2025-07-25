@@ -1,8 +1,8 @@
-This code has been published on the 20th of July in 2025 and is owned by KingRobin72.
-Modifications of the code are allowed as long as the modifications are not malicios.
-This mod is made in Visual Studio 2022 using the linknoid repo extension for it.
+//This code has been published on the 20th of July in 2025 and is owned by KingRobin72.
+//Modifications of the code are allowed as long as the modifications are not malicios.
+//This mod is made in Visual Studio 2022 using the linknoid repo extension for it.
 
-------------------------------------
+//------------------------------------//
 
 using BepInEx;
 using HarmonyLib;
